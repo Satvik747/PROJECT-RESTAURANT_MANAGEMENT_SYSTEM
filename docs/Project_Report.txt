@@ -2,7 +2,7 @@
 PROJECT REPORT
 ------------------------------------------------------------ 
 
-Course Code: CSEG1032
+Course Code: CSEG1041
 Course Title: Programming in C
 Project Title: Restaurant Management System
 Student Name: Satvik Arora
