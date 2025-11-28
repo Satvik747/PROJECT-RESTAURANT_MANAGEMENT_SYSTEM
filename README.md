@@ -40,13 +40,15 @@ Example format:
 6 DABELI 35
 7 BIRYANI 110
 📄 Sample Output (Invoice)
+<pre>
 ============= ORDER SUMMARY =============
-Product         Qty     Price   Subtotal
+Product         Qty     Price    Subtotal
 ------------------------------------------
- PIZZA          1       120.00  120.00
- BURGER         1       80.00   80.00
-__________________________________________
- Total:                         200.00
- GST(5%):                       10.00
- Final Amount:                  210.00
- _________________________________________
+PIZZA           1       120.00   120.00
+BURGER          1       80.00    80.00
+------------------------------------------
+Total:                           200.00
+GST (5%):                         10.00
+Final Amount:                    210.00
+==========================================
+</pre>
