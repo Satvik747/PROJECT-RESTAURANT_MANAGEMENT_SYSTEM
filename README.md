@@ -32,6 +32,7 @@ gcc src/main.c src/menu.c src/order.c src/util.c -I include -o main
 
 3. Ensure menu.txt Exists
 Example format:
+<pre>
 1 PIZZA 120
 2 FRIES 75
 3 BURGER 80
@@ -39,6 +40,7 @@ Example format:
 5 PASTA 140
 6 DABELI 35
 7 BIRYANI 110
+</pre>
 📄 Sample Output (Invoice)
 <pre>
 ============= ORDER SUMMARY =============
